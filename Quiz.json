@@ -1,0 +1,50 @@
+{
+"quizMainMenu":[
+  {
+    "question":"Tại những gì mức thu nhập mỗi thành viên gia đình mỗi tháng bạn nên bắt đầu lập kế hoạch ngân sách gia đình?",
+    "answer1":"Từ 2 000K VND 3 500K VND",
+    "answer2":"Từ 3 500K VND 5 000K VND",
+    "answer3":"Từ 5 000K VND 10 000K VND",
+    "answer4":"Bất kể mức thu nhập",
+    "right_answer":"Bất kể mức thu nhập",
+    "explanation": "Ngân sách gia đình kế hoạch là một phần quan trọng của việc sử dụng hợp lý tiền, mà phải được thực hiện bất kể mức thu nhập"
+   },
+  {
+    "question":"Bao nhiêu tiền tôi nên đặt sang một bên cho một tài chính đệm an toàn?",
+    "answer1":"Tiền lương hàng tháng",
+    "answer2":"2-3 tiền lương hàng tháng",
+    "answer3":"Càng tốt hơn",
+    "answer4":"Một tài chính đệm là không cần thiết. Để làm gì?",
+    "right_answer":"2-3 tiền lương hàng tháng",
+    "explanation": "Các túi khí, nên bao gồm khẩn cấp các chi phí và tiền để 2-3 tiền lương hàng tháng"
+   },
+  {
+    "question":"Nếu anh quyết định đi ra ngoài một khoản vay, những gì bạn nên chú ý đến đầu tiên?",
+    "answer1":"Cho đầy đủ các chi phí của các khoản vay",
+    "answer2":"Bởi số lượng tỷ lệ lãi suất",
+    "answer3":"Cho một thanh toán hàng tháng",
+    "answer4":"Cho tất cả những điều trên",
+    "right_answer":"Cho đầy đủ các chi phí của các khoản vay",
+    "explanation": "Đầy đủ các chi phí của các khoản vay thường giữ im lặng bởi tổ chức tín dụng, nhưng nó là đáng chú ý, bởi vì đây là danh nghĩa số tiền đó bạn sẽ phải trả"
+   },
+  {
+    "question":"Là gì lãi suất tối đa trên một khoản vay ở Việt nam?",
+    "answer1":"82% mỗi năm",
+    "answer2":"365% mỗi năm",
+    "answer3":"37% mỗi năm",
+    "answer4":"1000% mỗi năm",
+    "right_answer":"365% mỗi năm",
+    "explanation": "Ở Việt nam, tối đa cho phép quan tâm về một khoản vay là 1% mỗi ngày, tức là 365% mỗi năm"
+   },
+  {
+    "question":"Làm thế nào để tăng khả năng chấp thuận cho vay?",
+    "answer1":"Áp dụng cho nhiều tổ chức tín dụng",
+    "answer2":"Tăng thu nhập của bạn",
+    "answer3":"Chọn một tổ chức với một tỷ lệ cao hơn",
+    "answer4":"Áp dụng đối với chỉ một tổ chức tín dụng",
+    "right_answer":"Áp dụng cho nhiều tổ chức tín dụng",
+    "explanation": "Tất cả thẻ tín dụng, các tổ chức đưa ra quyết định cấp một khoản vay độc lập với nhau, nên gửi các ứng dụng cho các tổ chức khác nhau rất nhiều tăng khả năng chấp thuận"
+   }
+],
+"quizComplete":"Chúc mừng, cậu đã qua được bài kiểm tra hoàn hảo! Bây giờ chúng tôi cung cấp cho bạn một cuộc sống hack: nếu bạn để lại ít nhất 3 ứng dụng vào công ty khác nhau, thì xác suất của sự chấp thuận của số tiền lên đến 10 000K VND sẽ được 96%" 
+}
