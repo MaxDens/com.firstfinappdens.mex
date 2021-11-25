@@ -2,9 +2,9 @@
 "quizMainMenu":[
   {
     "question":"¿En qué nivel de ingresos por miembro de la familia por mes, debe comenzar a planificar el presupuesto familiar?",
-    "answer1":"Từ 2 000K VND 3 500K VND",
-    "answer2":"Từ 3 500K VND 5 000K VND",
-    "answer3":"Từ 5 000K VND 10 000K VND",
+    "answer1":"3 000 MXN",
+    "answer2":"10 000 MXN",
+    "answer3":"15 000 MXN",
     "answer4":"Independientemente del nivel de ingresos",
     "right_answer":"Independientemente del nivel de ingresos",
     "explanation": "La planificación del presupuesto familiar es una parte importante del uso adecuado del dinero, que debe realizarse independientemente del nivel de ingresos"
@@ -33,17 +33,16 @@
     "answer3":"37% por año",
     "answer4":"1000% por año",
     "right_answer":"365% por año",
-    "explanation": "Ở Việt nam, tối đa cho phép quan tâm về một khoản vay là 1% mỗi ngày, tức là 365% mỗi năm"
+    "explanation": "En М, el interés máximo permitido sobre un préstamo es de 1% por día, es decir, 365% por año"
    },
   {
-    "question":"Làm thế nào để tăng khả năng chấp thuận cho vay?",
-    "answer1":"Áp dụng cho nhiều tổ chức tín dụng",
-    "answer2":"Tăng thu nhập của bạn",
-    "answer3":"Chọn một tổ chức với một tỷ lệ cao hơn",
-    "answer4":"Áp dụng đối với chỉ một tổ chức tín dụng",
-    "right_answer":"Áp dụng cho nhiều tổ chức tín dụng",
-    "explanation": "Tất cả thẻ tín dụng, các tổ chức đưa ra quyết định cấp một khoản vay độc lập với nhau, nên gửi các ứng dụng cho các tổ chức khác nhau rất nhiều tăng khả năng chấp thuận"
-   }
+    "question":"¿Cómo aumentar la probabilidad de aprobación del préstamo?",
+    "answer1":"Solicitar más entidades de crédito",
+    "answer2":"Aumente sus ingresos",
+    "answer3":"Elija una organización con una tasa más alta de",
+    "answer4":"Se aplica a una sola entidad de crédito",
+    "right_answer":"Solicitar más entidades de crédito",
+    "explanation": "Todas las organizaciones de tarjetas de crédito toman la decisión de conceder un préstamo independientemente entre sí, deben enviar la solicitud para que la organización varíe en gran medida aumentar la probabilidad de aprobación"   }
 ],
-"quizComplete":"Chúc mừng, cậu đã qua được bài kiểm tra hoàn hảo! Bây giờ chúng tôi cung cấp cho bạn một cuộc sống hack: nếu bạn để lại ít nhất 3 ứng dụng vào công ty khác nhau, thì xác suất của sự chấp thuận của số tiền lên đến 10 000K VND sẽ được 96%" 
+"quizComplete":"Felicidades, has pasado la prueba, perfecto! Ahora te damos un truco de vida: si dejas al menos 3 aplicaciones a diferentes empresas, entonces la probabilidad de la aprobación de la cantidad hasta 5 000 MXN será del 96%"
 }
